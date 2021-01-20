@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name New_Library_1)(type Legacy)(uri ${KIPRJMOD}/New_Library_1.lib)(options "")(descr ""))
+  (lib (name GS-7_2021_3)(type Legacy)(uri ${KIPRJMOD}/GS-7_2021_3.lib)(options "")(descr ""))
+  (lib (name kada2020_3-cache)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/新しいフォルダー/kada2020_3/kada2020_3-cache.lib)(options "")(descr ""))
+)
